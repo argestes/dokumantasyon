@@ -15,7 +15,7 @@ Dökümantasyon
 ### Boulder Çantası
 ### Seyahat Çantası
 ### Dans Çantası
-### Deprem Çantası
+### [Deprem Çantası] (deprem_cantasi.md)
 
 ## Sistem
 
