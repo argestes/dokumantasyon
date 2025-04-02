@@ -1,5 +1,3 @@
-## 🔘 Button Guide for the Tchibo Electric Kettle
-
 | Icon                           | Function (EN)                        | Açıklama (TR)                             |
 |--------------------------------|--------------------------------------|-------------------------------------------|
 | ♨️                             | Keep Warm                            | Sıcak tutma modunu açar                   |
